@@ -1,0 +1,11 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "src/train.py", line 9, in <module>
+    from systems import EpicActionRecogintionDataModule
+  File "/home/students/s121md105_01/EPIC-KITCHENS/C1-Action-Recognition-TSN-TRN-TSM/src/systems.py", line 35, in <module>
+    from models.tsm_modified import TSM_MODIFIED
+  File "/home/students/s121md105_01/EPIC-KITCHENS/C1-Action-Recognition-TSN-TRN-TSM/src/models/tsm_modified.py", line 9, in <module>
+    from ops.temporal_shift_modified import make_temporal_interlace
+  File "/home/students/s121md105_01/EPIC-KITCHENS/C1-Action-Recognition-TSN-TRN-TSM/src/ops/temporal_shift_modified.py", line 11, in <module>
+    from src.cuda_shift.rtc_wrap import ShiftFeatureFunc
+ModuleNotFoundError: No module named 'src'

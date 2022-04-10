@@ -1,0 +1,13 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "src/train.py", line 9, in <module>
+    from systems import EpicActionRecogintionDataModule
+  File "/home/students/s121md105_01/EPIC-KITCHENS/C1-Action-Recognition-TSN-TRN-TSM/src/systems.py", line 35, in <module>
+    from models.tsm_modified import TSM_MODIFIED
+  File "/home/students/s121md105_01/EPIC-KITCHENS/C1-Action-Recognition-TSN-TRN-TSM/src/models/tsm_modified.py", line 9, in <module>
+    from ops.temporal_shift_modified import make_temporal_interlace
+  File "/home/students/s121md105_01/EPIC-KITCHENS/C1-Action-Recognition-TSN-TRN-TSM/src/ops/temporal_shift_modified.py", line 11, in <module>
+    from cuda_shift.rtc_wrap import ShiftFeatureFunc
+  File "/home/students/s121md105_01/EPIC-KITCHENS/C1-Action-Recognition-TSN-TRN-TSM/src/cuda_shift/rtc_wrap.py", line 4, in <module>
+    from . import _C  as backend
+ImportError: cannot import name '_C' from 'cuda_shift' (/home/students/s121md105_01/EPIC-KITCHENS/C1-Action-Recognition-TSN-TRN-TSM/src/cuda_shift/__init__.py)

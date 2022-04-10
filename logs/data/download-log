@@ -1,0 +1,1683 @@
+nohup: ignoring input
+
+************************************************
+*** Welcome to the EPIC Kitchens Downloader! ***
+************************************************
+
+Going to download: videos, rgb frames, flow frames, object detection images, metadata, consent forms, masks
+for challenges: ['ar']
+splits: all
+participants: all
+data source: EPIC 100
+
+--------------------------
+| Downloading videos now |
+--------------------------
+
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_01.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_02.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_03.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_04.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_05.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_06.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_07.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_08.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_09.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_10.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_101.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_102.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_103.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_104.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_105.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_106.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_107.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_108.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_109.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_11.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_12.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_13.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_14.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_15.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_16.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_17.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P01/P01_18.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_18.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_19.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_01.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_02.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_03.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P02/P02_04.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_04.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_05.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_06.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_07.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_08.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_09.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_10.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_101.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_102.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_103.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_104.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_105.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_106.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_107.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_108.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_108.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_109.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_109.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P02/P02_11.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_11.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_110.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_110.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_111.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_111.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_112.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_112.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_113.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_113.MP4
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_113.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_114.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_114.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_115.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_115.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_116.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_116.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_117.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_117.MP4
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_117.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_118.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_118.MP4
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_118.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_119.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_119.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P02/P02_12.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_12.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_120.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_120.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_121.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_121.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_122.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_122.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_123.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_123.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_124.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_124.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_125.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_125.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_126.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_126.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_127.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_127.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_128.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_128.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_129.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_129.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P02/P02_13.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_13.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_130.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_130.MP4
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_130.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_131.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_131.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_132.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_132.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_133.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_133.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_134.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_134.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_135.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_135.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_136.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_136.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_137.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_137.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P02/P02_14.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_14.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P02/P02_15.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_15.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_02.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_02.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_03.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_03.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_04.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_04.MP4
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_04.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_05.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_05.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_06.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_06.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_07.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_07.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_08.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_08.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_09.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_09.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_10.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_10.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_101.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_101.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_102.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_102.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_103.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_103.MP4
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_103.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_104.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_104.MP4
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_104.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_105.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_105.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_106.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_106.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_107.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_107.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_108.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_108.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_109.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_109.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_11.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_11.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_110.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_110.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_111.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_111.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_112.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_112.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_113.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_113.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_114.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_114.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_115.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_115.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_116.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_116.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_117.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_117.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_118.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_118.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_119.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_119.MP4
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_119.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_12.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_12.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_120.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_120.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_121.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_121.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_122.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_122.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P03/videos/P03_123.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_123.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_13.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_13.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_14.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_14.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_15.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_15.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_16.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_16.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_17.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_17.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_18.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_18.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_19.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_19.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_20.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_20.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P03/P03_21.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_21.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P03/P03_22.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_22.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P03/P03_23.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_23.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P03/P03_24.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_24.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P03/P03_25.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_25.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P03/P03_26.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_26.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_27.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_27.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P03/P03_28.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/videos/P03_28.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_01.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/videos/P04_01.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_02.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/videos/P04_02.MP4
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_02.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_03.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/videos/P04_03.MP4
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_03.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_04.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/videos/P04_04.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_05.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/videos/P04_05.MP4
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_05.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_06.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/videos/P04_06.MP4
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_06.MP4
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_07.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/videos/P04_07.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_08.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/videos/P04_08.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_09.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/videos/P04_09.MP4
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_108.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_109.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_110.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_111.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_112.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_113.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_114.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_115.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_116.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_117.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_118.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_119.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_120.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_121.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_122.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/videos/P04_123.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_13.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_14.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_15.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_16.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_17.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_18.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_19.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_20.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_21.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_22.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P04/P04_23.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P04/P04_24.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P04/P04_25.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P04/P04_26.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P04/P04_27.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P04/P04_28.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P04/P04_29.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P04/P04_30.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P04/P04_31.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P04/P04_32.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P04/P04_33.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P05/P05_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P05/P05_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P05/P05_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P05/P05_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P05/P05_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P05/P05_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P05/P05_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P05/P05_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P05/P05_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P06/P06_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P06/P06_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P06/P06_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P06/P06_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P06/P06_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P06/P06_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P06/P06_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P06/P06_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_108.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_109.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P06/P06_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_110.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_111.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_112.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P06/videos/P06_113.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P06/P06_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P06/P06_13.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P06/P06_14.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P07/P07_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P07/P07_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P07/P07_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P07/P07_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P07/P07_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P07/P07_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P07/P07_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P07/P07_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P07/P07_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P07/P07_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_108.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_109.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P07/P07_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_110.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_111.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_112.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_113.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_114.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_115.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_116.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P07/videos/P07_117.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P07/P07_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P07/P07_13.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P07/P07_14.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P07/P07_15.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P07/P07_16.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P07/P07_17.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P07/P07_18.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P08/P08_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P08/P08_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_13.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P08/P08_14.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P08/P08_15.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P08/P08_16.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P08/P08_17.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_18.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_19.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_20.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_21.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_22.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_23.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_24.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_25.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_26.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_27.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P08/P08_28.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P09/P09_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P09/P09_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P09/P09_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P09/P09_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P09/P09_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P09/P09_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P09/P09_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P09/P09_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P09/videos/P09_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P09/videos/P09_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P09/videos/P09_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P09/videos/P09_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P09/videos/P09_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P09/videos/P09_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P10/P10_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P10/P10_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P10/P10_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P10/P10_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P11/videos/P11_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P11/videos/P11_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P11/videos/P11_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P11/videos/P11_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P11/videos/P11_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P11/videos/P11_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P11/videos/P11_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P11/videos/P11_108.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P11/videos/P11_109.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_13.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_14.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_15.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_16.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_17.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_18.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_19.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_20.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_21.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_22.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_23.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P11/P11_24.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P12/P12_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P12/P12_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P12/P12_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P12/P12_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P12/P12_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P12/P12_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P12/P12_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P12/P12_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P12/videos/P12_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P12/videos/P12_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P12/videos/P12_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P12/videos/P12_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P12/videos/P12_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P13/P13_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P13/P13_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P13/P13_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P13/P13_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P13/P13_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P13/P13_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P13/P13_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P13/P13_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P13/P13_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P13/P13_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P14/P14_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P14/P14_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P14/P14_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P14/P14_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P14/P14_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P14/P14_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P14/P14_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P14/P14_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P14/P14_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P15/P15_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P15/P15_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P15/P15_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P15/P15_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P15/P15_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P15/P15_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P15/P15_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P15/P15_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P15/P15_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P15/P15_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P15/P15_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P15/P15_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P15/P15_13.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P16/P16_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P16/P16_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P16/P16_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P16/P16_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P17/P17_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P17/P17_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P17/P17_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P17/P17_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P18/P18_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P19/P19_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P19/P19_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P19/P19_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P19/P19_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P19/P19_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P19/P19_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P20/P20_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P20/P20_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P20/P20_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P20/P20_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P20/P20_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P20/P20_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P20/P20_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P21/P21_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P21/P21_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P21/P21_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P21/P21_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P22/P22_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P22/P22_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P22/P22_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P22/P22_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_108.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_109.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_110.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_111.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_112.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_113.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_114.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_115.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_116.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P22/videos/P22_117.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_13.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_14.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_15.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_16.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P22/P22_17.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P23/P23_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P23/P23_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P23/P23_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P23/P23_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P23/P23_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P23/videos/P23_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P23/videos/P23_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P23/videos/P23_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P24/P24_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P24/P24_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P24/P24_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P24/P24_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P24/P24_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P24/P24_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P24/P24_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P24/P24_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P24/P24_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P25/P25_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P25/P25_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P25/P25_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P25/P25_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P25/P25_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P25/P25_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P25/P25_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P25/P25_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P25/P25_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P25/P25_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P25/videos/P25_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P25/videos/P25_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P25/videos/P25_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P25/videos/P25_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P25/videos/P25_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P25/videos/P25_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P25/videos/P25_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P25/P25_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P25/P25_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_108.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_109.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_110.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_111.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_112.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_113.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_114.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_115.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_116.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_117.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_118.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_119.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_120.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_121.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_122.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_123.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P26/videos/P26_124.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_13.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_14.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_15.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_16.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_17.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_18.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_19.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_20.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_21.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_22.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_23.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_24.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_25.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_26.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_27.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_28.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P26/P26_29.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_30.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_31.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_32.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_33.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_34.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_35.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_36.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_37.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_38.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_39.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_40.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P26/P26_41.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P27/P27_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P27/P27_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P27/P27_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P27/P27_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P27/P27_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P27/P27_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P27/P27_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P27/videos/P27_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P27/videos/P27_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P27/videos/P27_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P27/videos/P27_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P27/videos/P27_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_108.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_109.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_110.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_111.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_112.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_113.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_114.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_115.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_116.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_117.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P28/videos/P28_118.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_13.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P28/P28_14.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_15.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_16.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_17.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_18.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_19.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_20.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_21.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_22.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_23.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_24.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_25.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P28/P28_26.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P29/P29_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P29/P29_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P29/P29_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P29/P29_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P29/P29_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P29/P29_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P30/P30_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P30/P30_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P30/P30_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P30/P30_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P30/P30_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P30/P30_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P30/P30_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P30/P30_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P30/P30_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P30/P30_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_108.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_109.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P30/P30_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_110.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_111.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_112.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_113.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P30/videos/P30_114.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P31/P31_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P31/P31_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P31/P31_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P31/P31_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P31/P31_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P31/P31_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P31/P31_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P31/P31_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P31/P31_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P31/P31_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P31/P31_11.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P31/P31_12.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P31/P31_13.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/train/P31/P31_14.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P32/P32_01.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P32/P32_02.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P32/P32_03.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P32/P32_04.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P32/P32_05.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P32/P32_06.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P32/P32_07.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P32/P32_08.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P32/P32_09.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/videos/test/P32/P32_10.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P33/videos/P33_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P33/videos/P33_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P33/videos/P33_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P33/videos/P33_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P33/videos/P33_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P33/videos/P33_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P33/videos/P33_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P33/videos/P33_108.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P33/videos/P33_109.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P33/videos/P33_110.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P33/videos/P33_111.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_108.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_109.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_110.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_111.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_112.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P34/videos/P34_113.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P35/videos/P35_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P35/videos/P35_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P35/videos/P35_103.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P35/videos/P35_104.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P35/videos/P35_105.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P35/videos/P35_106.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P35/videos/P35_107.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P35/videos/P35_108.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P35/videos/P35_109.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P36/videos/P36_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P36/videos/P36_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P37/videos/P37_101.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P37/videos/P37_102.MP4
+Error: [Errno 104] Connection reset by peer
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P37/videos/P37_103.MP4
+Error: [Errno 104] Connection reset by peer
+
+------------------------------
+| Downloading rgb frames now |
+------------------------------
+
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_01.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_02.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_03.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_04.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_05.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_06.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_07.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_08.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_09.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_10.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_101.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_102.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_103.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_104.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_105.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_106.tar
+Could not download file from https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P01/rgb_frames/P01_107.tar
+Error: [Errno 104] Connection reset by peer
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_108.tar
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Going to download an erratum now! ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_109.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_11.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_12.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_14.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_15.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_16.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_17.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_18.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/rgb_frames/P01_19.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_01.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_02.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_03.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_04.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_05.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_06.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_07.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_08.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_09.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_10.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_101.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_102.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_103.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_104.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_105.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_106.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_107.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_108.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_109.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_11.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_110.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_111.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_112.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_113.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_114.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_115.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_116.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_117.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_118.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_119.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_12.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_120.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_121.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_122.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_123.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_124.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_125.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_126.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_127.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_128.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_129.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_130.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_131.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_132.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_133.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_134.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_135.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_136.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_137.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_02.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_03.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_04.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_05.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_06.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_07.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_08.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_09.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_10.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_101.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_102.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_103.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_104.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_105.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_106.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_107.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_108.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_109.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_11.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_110.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_111.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_112.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_113.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_114.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_115.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_116.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_117.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_118.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_119.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_12.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_120.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_121.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_122.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_123.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_13.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_14.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_15.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_16.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_17.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_18.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_19.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_20.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_21.tar
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P03/P03_23.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_23.tar
+Could not download file from https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P03/P03_23.tar
+Error: [Errno 104] Connection reset by peer
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P03/P03_24.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_24.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P03/P03_25.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P03/P03_26.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_26.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_27.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_27.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_28.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P03/rgb_frames/P03_28.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_01.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/rgb_frames/P04_01.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_02.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/rgb_frames/P04_02.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_03.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/rgb_frames/P04_03.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_04.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/rgb_frames/P04_04.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_05.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/rgb_frames/P04_05.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_06.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/rgb_frames/P04_06.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_07.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/rgb_frames/P04_07.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_08.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/rgb_frames/P04_08.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_09.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/rgb_frames/P04_09.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_10.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/rgb_frames/P04_10.tar
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P04/rgb_frames/P04_101.tar
+to    /home/students/s121md105_01/EPIC-KITCHENS/P04/rgb_frames/P04_101.tar

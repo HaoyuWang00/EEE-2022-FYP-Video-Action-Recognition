@@ -1,0 +1,21 @@
+nohup: ignoring input
+
+************************************************
+*** Welcome to the EPIC Kitchens Downloader! ***
+************************************************
+
+Going to download: videos, rgb frames, flow frames, object detection images, metadata, consent forms, masks
+for challenges: ['ar']
+splits: ['test']
+participants: all
+data source: EPIC 100
+
+--------------------------
+| Downloading videos now |
+--------------------------
+
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P01/videos/P01_101.MP4
+This file was already downloaded, skipping it: /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_106.MP4
+Downloading
+from  https://data.bris.ac.uk/datasets/2g1n6qdydwa9u22shpxqzp0t8m/P02/videos/P02_117.MP4
+to    /home/students/s121md105_01/EPIC-KITCHENS/P02/videos/P02_117.MP4

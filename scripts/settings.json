@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/students/s121md105_01/anaconda3/envs/epic-models/lib/python3.8/site-packages",
+        "./EPIC-KITCHENS/C1-Action-Recognition-TSN-TRN-TSM/src"
+    ],
+    "git.ignoreLimitWarning": true
+}
